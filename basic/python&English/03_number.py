@@ -31,7 +31,7 @@ e = 2.718281828
 print(type(e))
 
 
-# complex, 
+# complex, that can store the real and imaginary
 z = 2 - 6j
 print(type(z))
 # then you can use attributes to show real and imaginary(虛部) by individually(個別的)
